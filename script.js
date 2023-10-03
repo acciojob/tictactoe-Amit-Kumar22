@@ -1,4 +1,5 @@
 let player1, player2;
+//player-2;
 let moves_p1 = [],
   moves_p2 = [];
 let result = false;
