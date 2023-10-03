@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let player1, player2;
 let moves_p1 = [],
   moves_p2 = [];
